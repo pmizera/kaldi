@@ -14,7 +14,7 @@ tool="compute-mfcc"
 . ./path.sh
 . ./utils/parse_options.sh
 
-if [ $# -le 1 ]; then
+if [ $# != 1 ]; then
    echo "Arguments should be a list of database directories, see ../run.sh for example."
    exit 1;
 fi
