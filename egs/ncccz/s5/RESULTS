@@ -9,4 +9,3 @@ exit 0
 %WER 57.69 [ 54508 / 94486, 5019 ins, 13297 del, 36192 sub ] /scratch/mizera/recipes_ctu/projects/kaldi/ncccz/s5_cw_nosp/exp/words/tri3/decode_test_lm_tg.si/wer_14_0.0
 %WER 49.74 [ 43457 / 87363, 4013 ins, 11743 del, 27701 sub ] [PARTIAL] /scratch/mizera/recipes_ctu/projects/kaldi/ncccz/s5_cw_nosp/exp/words/sgmm2_4/decode_test_lm_tg/wer_12_0.0
 %WER 47.93 [ 41872 / 87363, 4432 ins, 10516 del, 26924 sub ] [PARTIAL] /scratch/mizera/recipes_ctu/projects/kaldi/ncccz/s5_cw_nosp/exp/words/sgmm2_4_mmi_b0.1/decode_test_lm_tg_it3/wer_10
-
